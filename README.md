@@ -44,5 +44,4 @@
 
    Visit `http://EXTERNAL_IP` in a web browser to access your instance of Online Boutique.
 
-
-This is not an official Google project.
+<img src="https://github.com/GoogleCloudPlatform/microservices-demo/blob/main/docs/img/online-boutique-frontend-1.png">
